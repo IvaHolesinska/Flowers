@@ -1,0 +1,5 @@
+/* BOX MODEL - nastavíme intuitivnější box model (border-box) */
+html { box-sizing: border-box; }
+*, *:after, *:before { box-sizing: inherit; }
+
+
